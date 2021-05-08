@@ -1,1 +1,4 @@
 コメントで指定があるところは埋めてください
+
+twitteroauthを入れてください
+(index.phpから見て相対パスでtwitteroauth/autoload.phpに来るように)
